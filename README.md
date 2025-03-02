@@ -7,7 +7,7 @@ Este es un proyecto de ejemplo de e-commerce utilizando React y Firebase.
 Instrucciones para instalar y configurar el proyecto:
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/Nehuelin/ProyectoFinalMarcos.git
 cd tu-repositorio
 npm install
 ```
@@ -55,6 +55,6 @@ Este proyecto está licenciado bajo la Licencia MIT.
 
 ## Enlaces
 - [Live Demo](https://proyecto-final-marcos.vercel.app/)
-- [Repositorio](https://github.com/tu-usuario/tu-repositorio)
+- [Repositorio](https://github.com/Nehuelin/ProyectoFinalMarcos.git)
 - [Documentación de React](https://reactjs.org/docs/getting-started.html)
 - [Documentación de Firebase](https://firebase.google.com/docs)
